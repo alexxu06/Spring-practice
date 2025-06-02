@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19898e3d-0c12-439c-ba2f-a89cab9d29ef" name="Changes" comment="" />
+    <list default="true" id="19898e3d-0c12-439c-ba2f-a89cab9d29ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringBoot/PracticeSpringBoot3/src/main/java/com/example/practicespringboot3/controllers/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,10 +64,25 @@
       <workItem from="1748157139371" duration="838000" />
       <workItem from="1748324675178" duration="25000" />
       <workItem from="1748324803513" duration="57000" />
+      <workItem from="1748330402432" duration="26000" />
+      <workItem from="1748722795295" duration="996000" />
+      <workItem from="1748759121055" duration="17000" />
+      <workItem from="1748810720459" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBoot/PracticeSpringBoot2/src/main/java/com/example/practicespringboot2/controllers/LoginController.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
