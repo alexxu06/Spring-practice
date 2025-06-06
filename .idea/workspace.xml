@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19898e3d-0c12-439c-ba2f-a89cab9d29ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBoot/PracticeSpringBoot3/src/main/java/com/example/practicespringboot3/controllers/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/SpringBoot4Real/SpringBoot4/src/main/java/com/example/springboot4/controllers/PaymentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/SpringBoot4Real/SpringBoot4/src/main/java/com/example/springboot4/models/Payment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexx\OneDrive\Desktop\Projects\Practice\SpringBoot\SpringBoot4Real" />
       <recent name="C:\Users\alexx\OneDrive\Desktop\Projects\Practice\SpringBoot" />
     </key>
   </component>
@@ -68,6 +69,8 @@
       <workItem from="1748722795295" duration="996000" />
       <workItem from="1748759121055" duration="17000" />
       <workItem from="1748810720459" duration="27000" />
+      <workItem from="1748845781834" duration="1298000" />
+      <workItem from="1748985862631" duration="35000" />
     </task>
     <servers />
   </component>
